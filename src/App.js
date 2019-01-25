@@ -17,7 +17,7 @@ class App extends Component {
                     {size => (
                         <Box fill>
                             <AppBar>
-                                <Heading level='3' margin='none'>My App</Heading>
+                                <Heading level='3' margin='none'>base-react-grommit</Heading>
                                 <Button icon={<Notification />} onClick={() => { this.setState({ showSidebar: !this.state.showSidebar })}} />
                             </AppBar>
                             <AppContent>

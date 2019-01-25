@@ -1,6 +1,6 @@
 {
-  "name": "grommit-base",
-  "version": "0.0.1",
+  "name": "base-react-grommit",
+  "version": "1.0.0",
   "dependencies": {
     "grommet": "^2.3.1",
     "react": "^16.7.0",
